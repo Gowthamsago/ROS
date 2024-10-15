@@ -8,10 +8,10 @@
     ![image](https://github.com/RishikesavanRamesh/ros-oneday/assets/84554651/af997927-86e4-43a6-9984-26336e9d99d9)
 
  2) In the codespace tab, and in the **Codespaces** row, click more ( ... ), and click **New with options...**
-    ![image](https://github.com/RishikesavanRamesh/ros-oneday/assets/84554651/a0f9b137-fec0-4d95-a9c3-63f56be2737e)
+    ![image]![344537987-a0f9b137-fec0-4d95-a9c3-63f56be2737e](https://github.com/user-attachments/assets/7dd79de6-a180-4db4-b69f-1f413cd50dec)
 
- 3) Select the options as shown in the below image,
-    ![image](https://github.com/RishikesavanRamesh/ros-oneday/assets/84554651/c2bab462-1a8d-440f-b3d5-3c9620bf6f65)
+
+ 3) Select the options as mentioned below,
 
     - Branch : master
     - Dev container configuration : ros-dev-codespace
